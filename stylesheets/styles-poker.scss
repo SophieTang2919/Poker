@@ -1,0 +1,30 @@
+@import"normalize";
+
+
+.container {
+    width: 2000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+button {
+    background: #dee9bf;
+    border-style: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.rowa {
+    display: flex;
+    justify-content:center;
+    flex-wrap:wrap;
+}
+
+.col-3a {
+    width: 150px;
+    height: 230px;
+    background: #dee9bf;
+    margin: 10px;
+    // background-image: url("/retrogame/image/poker.jpg");
+}
